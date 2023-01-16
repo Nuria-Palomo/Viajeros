@@ -1,2 +1,2 @@
 # Viajeros
-plataforma para subir fotografías y comentarios de viajeros arqueológicos
+Fotografías y comentarios de viajeros visitando ruinas arqueológicas
